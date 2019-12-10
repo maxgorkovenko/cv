@@ -52,11 +52,12 @@ ul,ol
 /* MENU */
 .navbar
 {
-    background: #524F66;
+    background: #413E51;
     font-size: 12px;
     letter-spacing: 4px;
     text-transform: uppercase;
     font-weight: bold;
+    border-bottom: 0;
 }
 .navbar .navbar-nav
 {
